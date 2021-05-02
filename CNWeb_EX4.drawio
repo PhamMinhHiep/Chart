@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-05-02T03:34:30.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.9" etag="GHLe9_Ba0PuqHiYP7Rf7" type="github"><diagram id="u48GoIOBITwyYK6ZsH1N">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-02T03:51:28.384Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="6sS1gSfD873NMP17UxAF" version="14.6.9" type="github">
+  <diagram id="u48GoIOBITwyYK6ZsH1N" name="Page-1">
+    <mxGraphModel dx="786" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iGtlcuvtVym0R-11SD9T-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGtlcuvtVym0R-11SD9T-1" target="iGtlcuvtVym0R-11SD9T-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-1" value="Root Element&lt;br&gt;&amp;lt;Kết quả thi đấu&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGtlcuvtVym0R-11SD9T-2" target="iGtlcuvtVym0R-11SD9T-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGtlcuvtVym0R-11SD9T-2" target="iGtlcuvtVym0R-11SD9T-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-2" value="Element&lt;br&gt;&amp;lt;Sự kiện&amp;gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-4" value="Attribute&lt;br&gt;&amp;lt;Tên sự kiện&amp;gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGtlcuvtVym0R-11SD9T-6" target="iGtlcuvtVym0R-11SD9T-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGtlcuvtVym0R-11SD9T-6" target="iGtlcuvtVym0R-11SD9T-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGtlcuvtVym0R-11SD9T-6" target="iGtlcuvtVym0R-11SD9T-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-6" value="Element&lt;br&gt;&amp;lt;Vận động viên&amp;gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-8" value="Element&lt;br&gt;&amp;lt;Mã vận động viên&amp;gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-10" value="Element&amp;nbsp;&lt;br&gt;&amp;lt;Tên quốc gia&amp;gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGtlcuvtVym0R-11SD9T-12" value="Element&lt;br&gt;&amp;lt;Huy chương&amp;gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
